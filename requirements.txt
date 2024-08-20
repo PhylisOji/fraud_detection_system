@@ -1,0 +1,12 @@
+#Data Manipulation and Analysis
+Pandas
+numpy
+
+#Machine Learning
+scikit-learn
+
+
+#Data Visualisation
+matplotlib
+seaborn
+

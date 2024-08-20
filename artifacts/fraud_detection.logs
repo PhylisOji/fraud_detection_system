@@ -1,0 +1,1360 @@
+2024-08-18 23:02:49,155-__main__-INFO-Generating 10000 samples of synthetic data starting from 2023-01-01.
+2024-08-18 23:02:49,194-__main__-INFO-Timestamps generated successfully.
+2024-08-18 23:02:49,199-__main__-INFO-Fraud labels generated successfully.
+2024-08-18 23:02:49,234-__main__-INFO-DataFrame created successfully.
+2024-08-18 23:02:49,236-__main__-INFO-Output directory ../data/raw created or already exists.
+2024-08-18 23:02:49,438-__main__-INFO-Synthetic data generated and saved to ../data/raw/transaction_data.csv
+2024-08-18 23:05:43,759-__main__-INFO-Generating 10000 samples of synthetic data starting from 2023-01-01.
+2024-08-18 23:05:43,808-__main__-INFO-Timestamps generated successfully.
+2024-08-18 23:05:43,814-__main__-INFO-Fraud labels generated successfully.
+2024-08-18 23:05:43,860-__main__-INFO-DataFrame created successfully.
+2024-08-18 23:05:43,862-__main__-INFO-Output directory ../fraud_detection/data/raw created or already exists.
+2024-08-18 23:05:43,968-__main__-INFO-Synthetic data generated and saved to ../fraud_detection/data/raw/transaction_data.csv
+2024-08-18 23:06:10,179-__main__-INFO-Generating 10000 samples of synthetic data starting from 2023-01-01.
+2024-08-18 23:06:10,212-__main__-INFO-Timestamps generated successfully.
+2024-08-18 23:06:10,213-__main__-INFO-Fraud labels generated successfully.
+2024-08-18 23:06:10,244-__main__-INFO-DataFrame created successfully.
+2024-08-18 23:06:10,244-__main__-INFO-Output directory ../fraud_detection/data/raw created or already exists.
+2024-08-18 23:06:10,330-__main__-INFO-Synthetic data generated and saved to ../fraud_detection/data/raw/transaction_data.csv
+2024-08-18 23:06:40,018-__main__-INFO-Generating 10000 samples of synthetic data starting from 2023-01-01.
+2024-08-18 23:06:40,050-__main__-INFO-Timestamps generated successfully.
+2024-08-18 23:06:40,055-__main__-INFO-Fraud labels generated successfully.
+2024-08-18 23:06:40,087-__main__-INFO-DataFrame created successfully.
+2024-08-18 23:06:40,088-__main__-INFO-Output directory ../fraud_detection_system/data/raw created or already exists.
+2024-08-18 23:06:40,179-__main__-INFO-Synthetic data generated and saved to ../fraud_detection_system/data/raw/transaction_data.csv
+2024-08-18 23:08:47,701-__main__-INFO-Generating 10000 samples of synthetic data starting from 2023-01-01.
+2024-08-18 23:08:47,769-__main__-INFO-Timestamps generated successfully.
+2024-08-18 23:08:47,771-__main__-INFO-Fraud labels generated successfully.
+2024-08-18 23:08:47,832-__main__-INFO-DataFrame created successfully.
+2024-08-18 23:08:47,833-__main__-INFO-Output directory ../fraud_detection_system/data/raw created or already exists.
+2024-08-18 23:08:47,962-__main__-INFO-Synthetic data generated and saved to ../fraud_detection_system/data/raw/transaction_data.csv
+2024-08-18 23:11:05,366-__main__-INFO-Generating 10000 samples of synthetic data starting from 2023-01-01.
+2024-08-18 23:11:05,403-__main__-INFO-Timestamps generated successfully.
+2024-08-18 23:11:05,406-__main__-INFO-Fraud labels generated successfully.
+2024-08-18 23:11:05,441-__main__-INFO-DataFrame created successfully.
+2024-08-18 23:11:05,442-__main__-INFO-Output directory ../fraud_detection_system/data/raw created or already exists.
+2024-08-18 23:11:05,533-__main__-INFO-Synthetic data generated and saved to ../fraud_detection_system/data/raw/transaction_data.csv
+2024-08-19 11:38:26,674-__main__-INFO-DataIngestion initialized with file path: ../data/raw/Datasets.csv
+2024-08-19 11:38:26,675-__main__-ERROR-File not found: ../data/raw/Datasets.csv
+2024-08-19 11:38:26,675-src.exception-ERROR-File not found: ../data/raw/Datasets.csv
+2024-08-19 11:38:26,676-__main__-ERROR-An error occurred while loading data: File not found: ../data/raw/Datasets.csv
+2024-08-19 11:38:26,676-src.exception-ERROR-Failed to load data from ../data/raw/Datasets.csv
+2024-08-19 11:38:26,676-src.exception-ERROR-File not found: ../data/raw/Datasets.csv
+2024-08-19 11:38:26,676-__main__-ERROR-Data ingestion process failed: Failed to load data from ../data/raw/Datasets.csv
+2024-08-19 11:40:13,265-__main__-INFO-DataIngestion initialized with file path: ../data/raw/Datasets.csv
+2024-08-19 11:40:13,266-__main__-ERROR-File not found: ../data/raw/Datasets.csv
+2024-08-19 11:40:13,266-src.exception-ERROR-File not found: ../data/raw/Datasets.csv
+2024-08-19 11:40:13,266-__main__-ERROR-An error occurred while loading data: File not found: ../data/raw/Datasets.csv
+2024-08-19 11:40:13,266-src.exception-ERROR-Failed to load data from ../data/raw/Datasets.csv
+2024-08-19 11:40:13,267-src.exception-ERROR-File not found: ../data/raw/Datasets.csv
+2024-08-19 11:40:13,267-__main__-ERROR-Data ingestion process failed: Failed to load data from ../data/raw/Datasets.csv
+2024-08-19 11:40:48,784-__main__-INFO-DataIngestion initialized with file path: ../data/raw/Datasets.csv
+2024-08-19 11:40:48,785-__main__-ERROR-File not found: ../data/raw/Datasets.csv
+2024-08-19 11:40:48,785-src.exception-ERROR-File not found: ../data/raw/Datasets.csv
+2024-08-19 11:40:48,786-__main__-ERROR-An error occurred while loading data: File not found: ../data/raw/Datasets.csv
+2024-08-19 11:40:48,786-src.exception-ERROR-Failed to load data from ../data/raw/Datasets.csv
+2024-08-19 11:40:48,786-src.exception-ERROR-File not found: ../data/raw/Datasets.csv
+2024-08-19 11:40:48,786-__main__-ERROR-Data ingestion process failed: Failed to load data from ../data/raw/Datasets.csv
+2024-08-19 11:42:08,117-__main__-INFO-DataIngestion initialized with file path: fraud_detection_system/data/raw/Datasets.csv
+2024-08-19 11:42:08,118-__main__-ERROR-File not found: fraud_detection_system/data/raw/Datasets.csv
+2024-08-19 11:42:08,118-src.exception-ERROR-File not found: fraud_detection_system/data/raw/Datasets.csv
+2024-08-19 11:42:08,119-__main__-ERROR-An error occurred while loading data: File not found: fraud_detection_system/data/raw/Datasets.csv
+2024-08-19 11:42:08,119-src.exception-ERROR-Failed to load data from fraud_detection_system/data/raw/Datasets.csv
+2024-08-19 11:42:08,119-src.exception-ERROR-File not found: fraud_detection_system/data/raw/Datasets.csv
+2024-08-19 11:42:08,119-__main__-ERROR-Data ingestion process failed: Failed to load data from fraud_detection_system/data/raw/Datasets.csv
+2024-08-19 21:01:40,553-__main__-INFO-DataIngestion initialized with file path: fraud_detection_system/data/raw/Datasets.csv
+2024-08-19 21:01:40,554-__main__-ERROR-File not found: fraud_detection_system/data/raw/Datasets.csv
+2024-08-19 21:01:40,554-src.exception-ERROR-File not found: fraud_detection_system/data/raw/Datasets.csv
+2024-08-19 21:01:40,554-__main__-ERROR-An error occurred while loading data: File not found: fraud_detection_system/data/raw/Datasets.csv
+2024-08-19 21:01:40,555-src.exception-ERROR-Failed to load data from fraud_detection_system/data/raw/Datasets.csv
+2024-08-19 21:01:40,555-src.exception-ERROR-File not found: fraud_detection_system/data/raw/Datasets.csv
+2024-08-19 21:01:40,555-__main__-ERROR-Data ingestion process failed: Failed to load data from fraud_detection_system/data/raw/Datasets.csv
+2024-08-19 21:02:22,248-__main__-INFO-DataIngestion initialized with file path: fraud_detection_system/data/raw/Datasets.csv
+2024-08-19 21:02:22,249-__main__-ERROR-File not found: fraud_detection_system/data/raw/Datasets.csv
+2024-08-19 21:02:22,250-src.exception-ERROR-File not found: fraud_detection_system/data/raw/Datasets.csv
+2024-08-19 21:02:22,250-__main__-ERROR-An error occurred while loading data: File not found: fraud_detection_system/data/raw/Datasets.csv
+2024-08-19 21:02:22,250-src.exception-ERROR-Failed to load data from fraud_detection_system/data/raw/Datasets.csv
+2024-08-19 21:02:22,250-src.exception-ERROR-File not found: fraud_detection_system/data/raw/Datasets.csv
+2024-08-19 21:02:22,250-__main__-ERROR-Data ingestion process failed: Failed to load data from fraud_detection_system/data/raw/Datasets.csv
+2024-08-19 21:09:19,969-__main__-INFO-DataIngestion initialized with file path: ../fraud_detection_system/data/raw/Datasets.csv
+2024-08-19 21:09:19,970-__main__-INFO-Loading data from ../fraud_detection_system/data/raw/Datasets.csv
+2024-08-19 21:09:20,131-__main__-INFO-Data loaded successfully with 10124 records and 1 columns.
+2024-08-19 21:09:20,132-__main__-INFO-Starting data validation...
+2024-08-19 21:09:20,136-__main__-WARNING-Data contains 2 missing values. Consider handling them in preprocessing.
+2024-08-19 21:09:20,142-__main__-WARNING-Data contains 10121 duplicate records. Consider handling them in preprocessing.
+2024-08-19 21:09:20,143-__main__-ERROR-An error occurred during data validation: 'amount'
+2024-08-19 21:09:20,144-src.exception-ERROR-Failed to validate data.
+2024-08-19 21:09:20,144-src.exception-ERROR-'amount'
+2024-08-19 21:09:20,144-__main__-ERROR-Data ingestion process failed: Failed to validate data.
+2024-08-19 21:15:10,003-__main__-INFO-DataIngestion initialized with file path: ../fraud_detection_system/data/raw/Datasets.csv
+2024-08-19 21:15:10,005-__main__-INFO-Loading data from ../fraud_detection_system/data/raw/Datasets.csv
+2024-08-19 21:15:10,406-__main__-INFO-Data loaded successfully with 10127 records and 17 columns.
+2024-08-19 21:15:10,406-__main__-INFO-Starting data validation...
+2024-08-19 21:15:10,416-__main__-WARNING-Data contains 44 missing values. Consider handling them in preprocessing.
+2024-08-19 21:15:10,446-__main__-INFO-Data validation completed successfully.
+2024-08-19 21:15:10,446-__main__-INFO-Starting data preprocessing...
+2024-08-19 21:15:10,460-__main__-INFO-Dropped missing values. Data shape changed from (10127, 17) to (10088, 17).
+2024-08-19 21:15:10,503-__main__-INFO-Categorical columns ['type', 'branch', 'Acct type', 'Time of day'] encoded using one-hot encoding.
+2024-08-19 21:15:10,503-__main__-INFO-Basic preprocessing completed successfully.
+2024-08-19 21:15:11,193-__main__-INFO-Preprocessed data saved to fraud_detection_system/data/processed/transaction_data.csv
+2024-08-19 21:20:35,127-__main__-INFO-FeatureEngineering initialized.
+2024-08-19 21:20:35,128-__main__-INFO-Creating time-based features...
+2024-08-19 21:20:35,131-__main__-ERROR-An error occurred while creating time-based features: time data "13/1/2018" doesn't match format "%m/%d/%Y", at position 9. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this.
+2024-08-19 21:20:35,132-src.exception-ERROR-Failed to create time-based features.
+2024-08-19 21:20:35,132-src.exception-ERROR-time data "13/1/2018" doesn't match format "%m/%d/%Y", at position 9. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this.
+2024-08-19 21:20:35,132-__main__-ERROR-Feature engineering process failed: Failed to create time-based features.
+2024-08-19 21:26:25,244-__main__-INFO-FeatureEngineering initialized.
+2024-08-19 21:26:25,245-__main__-INFO-Creating time-based features...
+2024-08-19 21:26:25,257-__main__-ERROR-An error occurred while creating time-based features: time data "Morning" doesn't match format "%I %p", at position 0. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this.
+2024-08-19 21:26:25,257-src.exception-ERROR-Failed to create time-based features.
+2024-08-19 21:26:25,258-src.exception-ERROR-time data "Morning" doesn't match format "%I %p", at position 0. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this.
+2024-08-19 21:26:25,260-__main__-ERROR-Feature engineering process failed: Failed to create time-based features.
+2024-08-19 21:31:44,644-__main__-INFO-FeatureEngineering initialized.
+2024-08-19 21:31:44,645-__main__-INFO-Creating time-based features...
+2024-08-19 21:31:44,659-__main__-INFO-Time-based features created successfully.
+2024-08-19 21:31:44,659-__main__-INFO-Creating amount-based features...
+2024-08-19 21:31:44,663-__main__-INFO-Amount-based features created successfully.
+2024-08-19 21:31:44,663-__main__-INFO-Creating interaction features...
+2024-08-19 21:31:44,666-__main__-ERROR-An error occurred while creating interaction features: 'hour_of_day'
+2024-08-19 21:31:44,666-src.exception-ERROR-Failed to create interaction features.
+2024-08-19 21:31:44,666-src.exception-ERROR-'hour_of_day'
+2024-08-19 21:31:44,667-__main__-ERROR-Feature engineering process failed: Failed to create interaction features.
+2024-08-19 21:32:43,314-__main__-INFO-FeatureEngineering initialized.
+2024-08-19 21:32:43,316-__main__-INFO-Creating time-based features...
+2024-08-19 21:32:43,327-__main__-INFO-Time-based features created successfully.
+2024-08-19 21:32:43,327-__main__-INFO-Creating amount-based features...
+2024-08-19 21:32:43,330-__main__-INFO-Amount-based features created successfully.
+2024-08-19 21:32:43,554-__main__-INFO-Engineered data saved to ../fraud_detection_system/data/processed/processed_transaction_data.csv
+2024-08-20 09:59:54,217-__main__-INFO-Starting the model training process...
+2024-08-20 10:01:00,030-__main__-INFO-Starting the model training process...
+2024-08-20 10:01:00,214-src.data_modelling-INFO-Starting training and evaluation of models...
+2024-08-20 10:01:00,237-src.data_modelling-INFO-Training Logistic Regression...
+2024-08-20 10:01:00,263-src.data_modelling-ERROR-An error occurred during model training and evaluation: could not convert string to float: 'PAYMENT'
+2024-08-20 10:01:00,263-src.exception-ERROR-Failed to train and evaluate models.
+2024-08-20 10:01:00,267-src.exception-ERROR-could not convert string to float: 'PAYMENT'
+2024-08-20 10:01:00,267-__main__-ERROR-Model training process failed: Failed to train and evaluate models.
+2024-08-20 10:08:25,471-__main__-INFO-FeatureEngineering initialized.
+2024-08-20 10:08:25,472-__main__-INFO-Creating time-based features...
+2024-08-20 10:08:25,483-__main__-INFO-Time-based features created successfully.
+2024-08-20 10:08:25,484-__main__-INFO-Creating amount-based features...
+2024-08-20 10:08:25,488-__main__-INFO-Amount-based features created successfully.
+2024-08-20 10:08:25,488-__main__-INFO-Encoding categorical features: ['type', 'branch', 'Acct type']...
+2024-08-20 10:08:25,533-__main__-INFO-Categorical features encoded successfully.
+2024-08-20 10:08:26,081-__main__-INFO-Engineered data saved to ../fraud_detection_system/data/processed/processed_transaction_data.csv
+2024-08-20 10:08:58,527-__main__-INFO-Starting the model training process...
+2024-08-20 10:08:58,992-src.data_modelling-INFO-Starting training and evaluation of models...
+2024-08-20 10:08:59,015-src.data_modelling-INFO-Training Logistic Regression...
+2024-08-20 10:08:59,019-src.data_modelling-ERROR-An error occurred during model training and evaluation: could not convert string to float: 'C41646355'
+2024-08-20 10:08:59,019-src.exception-ERROR-Failed to train and evaluate models.
+2024-08-20 10:08:59,019-src.exception-ERROR-could not convert string to float: 'C41646355'
+2024-08-20 10:08:59,020-__main__-ERROR-Model training process failed: Failed to train and evaluate models.
+2024-08-20 10:16:48,818-__main__-INFO-Starting the model training process...
+2024-08-20 10:16:49,143-src.data_modelling-INFO-Starting training and evaluation of models...
+2024-08-20 10:16:49,165-src.data_modelling-INFO-Training Logistic Regression...
+2024-08-20 10:16:49,217-src.data_modelling-ERROR-An error occurred during model training and evaluation: Input X contains NaN.
+LogisticRegression does not accept missing values encoded as NaN natively. For supervised learning, you might want to consider sklearn.ensemble.HistGradientBoostingClassifier and Regressor which accept missing values encoded as NaNs natively. Alternatively, it is possible to preprocess the data, for instance by using an imputer transformer in a pipeline or drop samples with missing values. See https://scikit-learn.org/stable/modules/impute.html You can find a list of all estimators that handle NaN values at the following page: https://scikit-learn.org/stable/modules/impute.html#estimators-that-handle-nan-values
+2024-08-20 10:16:49,217-src.exception-ERROR-Failed to train and evaluate models.
+2024-08-20 10:16:49,217-src.exception-ERROR-Input X contains NaN.
+LogisticRegression does not accept missing values encoded as NaN natively. For supervised learning, you might want to consider sklearn.ensemble.HistGradientBoostingClassifier and Regressor which accept missing values encoded as NaNs natively. Alternatively, it is possible to preprocess the data, for instance by using an imputer transformer in a pipeline or drop samples with missing values. See https://scikit-learn.org/stable/modules/impute.html You can find a list of all estimators that handle NaN values at the following page: https://scikit-learn.org/stable/modules/impute.html#estimators-that-handle-nan-values
+2024-08-20 10:16:49,217-__main__-ERROR-Model training process failed: Failed to train and evaluate models.
+2024-08-20 10:19:06,473-__main__-INFO-FeatureEngineering initialized.
+2024-08-20 10:19:06,474-__main__-INFO-Creating time-based features...
+2024-08-20 10:19:06,487-__main__-INFO-Time-based features created successfully.
+2024-08-20 10:19:06,488-__main__-INFO-Creating amount-based features...
+2024-08-20 10:19:06,492-__main__-INFO-Amount-based features created successfully.
+2024-08-20 10:19:06,492-__main__-INFO-Encoding categorical features: ['type', 'branch', 'Acct type']...
+2024-08-20 10:19:06,539-__main__-INFO-Categorical features encoded successfully.
+2024-08-20 10:19:07,122-__main__-INFO-Engineered data saved to ../fraud_detection_system/data/processed/processed_transaction_data.csv
+2024-08-20 10:19:14,208-__main__-INFO-Starting the model training process...
+2024-08-20 10:19:14,548-src.data_modelling-INFO-Starting training and evaluation of models...
+2024-08-20 10:19:14,570-src.data_modelling-INFO-Training Logistic Regression...
+2024-08-20 10:19:14,618-src.data_modelling-ERROR-An error occurred during model training and evaluation: Input X contains NaN.
+LogisticRegression does not accept missing values encoded as NaN natively. For supervised learning, you might want to consider sklearn.ensemble.HistGradientBoostingClassifier and Regressor which accept missing values encoded as NaNs natively. Alternatively, it is possible to preprocess the data, for instance by using an imputer transformer in a pipeline or drop samples with missing values. See https://scikit-learn.org/stable/modules/impute.html You can find a list of all estimators that handle NaN values at the following page: https://scikit-learn.org/stable/modules/impute.html#estimators-that-handle-nan-values
+2024-08-20 10:19:14,619-src.exception-ERROR-Failed to train and evaluate models.
+2024-08-20 10:19:14,619-src.exception-ERROR-Input X contains NaN.
+LogisticRegression does not accept missing values encoded as NaN natively. For supervised learning, you might want to consider sklearn.ensemble.HistGradientBoostingClassifier and Regressor which accept missing values encoded as NaNs natively. Alternatively, it is possible to preprocess the data, for instance by using an imputer transformer in a pipeline or drop samples with missing values. See https://scikit-learn.org/stable/modules/impute.html You can find a list of all estimators that handle NaN values at the following page: https://scikit-learn.org/stable/modules/impute.html#estimators-that-handle-nan-values
+2024-08-20 10:19:14,619-__main__-ERROR-Model training process failed: Failed to train and evaluate models.
+2024-08-20 10:27:23,777-__main__-INFO-FeatureEngineering initialized.
+2024-08-20 10:27:23,778-__main__-INFO-Creating time-based features...
+2024-08-20 10:27:23,794-__main__-INFO-Time-based features created successfully.
+2024-08-20 10:27:23,794-__main__-INFO-Creating amount-based features...
+2024-08-20 10:27:23,799-__main__-INFO-Amount-based features created successfully.
+2024-08-20 10:27:23,802-__main__-INFO-Encoding categorical features: ['type', 'branch', 'Acct type']...
+2024-08-20 10:27:23,839-__main__-INFO-Categorical features encoded successfully.
+2024-08-20 10:27:24,374-__main__-INFO-Engineered data saved to ../fraud_detection_system/data/processed/processed_transaction_data.csv
+2024-08-20 10:30:11,990-__main__-INFO-FeatureEngineering initialized.
+2024-08-20 10:30:11,991-__main__-INFO-Checking for and handling missing values...
+2024-08-20 10:30:12,006-__main__-WARNING-Missing values found:
+type                    4
+amount                  2
+nameOrig                6
+oldbalanceOrg           2
+nameDest                6
+oldbalanceDest          1
+newbalanceDest          2
+Acct type              10
+Date of transaction     7
+Time of day             2
+isFraud                 2
+dtype: int64
+2024-08-20 10:30:12,038-__main__-ERROR-Error in handling missing values: Cannot use median strategy with non-numeric data:
+could not convert string to float: 'PAYMENT'
+2024-08-20 10:30:12,038-src.exception-ERROR-Failed to handle missing values.
+2024-08-20 10:30:12,039-src.exception-ERROR-Cannot use median strategy with non-numeric data:
+could not convert string to float: 'PAYMENT'
+2024-08-20 10:30:12,039-__main__-ERROR-Feature engineering process failed: Failed to handle missing values.
+2024-08-20 10:34:55,711-__main__-INFO-FeatureEngineering initialized.
+2024-08-20 10:34:55,712-__main__-INFO-Checking for and handling missing values...
+2024-08-20 10:34:55,755-__main__-INFO-Handled missing values in numeric columns with median strategy.
+2024-08-20 10:34:55,784-__main__-INFO-Handled missing values in categorical columns with most frequent strategy.
+2024-08-20 10:34:55,789-__main__-INFO-Creating features...
+2024-08-20 10:34:55,828-__main__-INFO-Features created successfully.
+2024-08-20 10:34:55,828-__main__-INFO-Encoding categorical features...
+2024-08-20 10:34:55,875-__main__-INFO-Categorical features encoded successfully.
+2024-08-20 10:34:56,443-__main__-INFO-Processed data saved to ../fraud_detection_system/data/processed/processed_transaction_data.csv
+2024-08-20 10:35:14,108-__main__-INFO-Starting the model training process...
+2024-08-20 10:35:14,523-src.data_modelling-INFO-Starting training and evaluation of models...
+2024-08-20 10:35:14,537-src.data_modelling-INFO-Training Logistic Regression...
+2024-08-20 10:35:15,089-src.data_modelling-INFO-Logistic Regression completed with accuracy: 0.9946
+2024-08-20 10:35:15,089-src.data_modelling-INFO-Classification Report for Logistic Regression:
+              precision    recall  f1-score   support
+
+         0.0       0.99      1.00      1.00      2009
+         1.0       1.00      0.35      0.52        17
+
+    accuracy                           0.99      2026
+   macro avg       1.00      0.68      0.76      2026
+weighted avg       0.99      0.99      0.99      2026
+
+2024-08-20 10:35:15,090-src.data_modelling-INFO-Confusion Matrix for Logistic Regression:
+[[2009    0]
+ [  11    6]]
+
+2024-08-20 10:35:15,090-src.data_modelling-INFO-Training Gradient Boosting...
+2024-08-20 10:35:19,174-src.data_modelling-INFO-Gradient Boosting completed with accuracy: 0.9951
+2024-08-20 10:35:19,174-src.data_modelling-INFO-Classification Report for Gradient Boosting:
+              precision    recall  f1-score   support
+
+         0.0       1.00      1.00      1.00      2009
+         1.0       0.89      0.47      0.62        17
+
+    accuracy                           1.00      2026
+   macro avg       0.94      0.74      0.81      2026
+weighted avg       0.99      1.00      0.99      2026
+
+2024-08-20 10:35:19,174-src.data_modelling-INFO-Confusion Matrix for Gradient Boosting:
+[[2008    1]
+ [   9    8]]
+
+2024-08-20 10:35:19,175-src.data_modelling-INFO-Training k-Neighbors Classifier...
+2024-08-20 10:35:19,911-src.data_modelling-INFO-k-Neighbors Classifier completed with accuracy: 0.9926
+2024-08-20 10:35:19,911-src.data_modelling-INFO-Classification Report for k-Neighbors Classifier:
+              precision    recall  f1-score   support
+
+         0.0       0.99      1.00      1.00      2009
+         1.0       0.67      0.24      0.35        17
+
+    accuracy                           0.99      2026
+   macro avg       0.83      0.62      0.67      2026
+weighted avg       0.99      0.99      0.99      2026
+
+2024-08-20 10:35:19,912-src.data_modelling-INFO-Confusion Matrix for k-Neighbors Classifier:
+[[2007    2]
+ [  13    4]]
+
+2024-08-20 10:35:19,912-src.data_modelling-INFO-Training Decision Tree Classifier...
+2024-08-20 10:35:20,052-src.data_modelling-INFO-Decision Tree Classifier completed with accuracy: 0.9965
+2024-08-20 10:35:20,053-src.data_modelling-INFO-Classification Report for Decision Tree Classifier:
+              precision    recall  f1-score   support
+
+         0.0       1.00      1.00      1.00      2009
+         1.0       0.86      0.71      0.77        17
+
+    accuracy                           1.00      2026
+   macro avg       0.93      0.85      0.89      2026
+weighted avg       1.00      1.00      1.00      2026
+
+2024-08-20 10:35:20,053-src.data_modelling-INFO-Confusion Matrix for Decision Tree Classifier:
+[[2007    2]
+ [   5   12]]
+
+2024-08-20 10:35:20,053-src.data_modelling-INFO-Training Random Forest Classifier...
+2024-08-20 10:35:21,090-src.data_modelling-INFO-Random Forest Classifier completed with accuracy: 0.9951
+2024-08-20 10:35:21,090-src.data_modelling-INFO-Classification Report for Random Forest Classifier:
+              precision    recall  f1-score   support
+
+         0.0       1.00      1.00      1.00      2009
+         1.0       1.00      0.41      0.58        17
+
+    accuracy                           1.00      2026
+   macro avg       1.00      0.71      0.79      2026
+weighted avg       1.00      1.00      0.99      2026
+
+2024-08-20 10:35:21,091-src.data_modelling-INFO-Confusion Matrix for Random Forest Classifier:
+[[2009    0]
+ [  10    7]]
+
+2024-08-20 10:35:21,091-src.data_modelling-INFO-Training AdaBoost Classifier...
+2024-08-20 10:35:22,469-src.data_modelling-INFO-AdaBoost Classifier completed with accuracy: 0.9970
+2024-08-20 10:35:22,470-src.data_modelling-INFO-Classification Report for AdaBoost Classifier:
+              precision    recall  f1-score   support
+
+         0.0       1.00      1.00      1.00      2009
+         1.0       1.00      0.65      0.79        17
+
+    accuracy                           1.00      2026
+   macro avg       1.00      0.82      0.89      2026
+weighted avg       1.00      1.00      1.00      2026
+
+2024-08-20 10:35:22,470-src.data_modelling-INFO-Confusion Matrix for AdaBoost Classifier:
+[[2009    0]
+ [   6   11]]
+
+2024-08-20 10:35:22,471-src.data_modelling-ERROR-An error occurred while saving the model 'AdaBoost Classifier': [Errno 2] No such file or directory: 'fraud_detection_system/models/adaboost_classifier.pkl'
+2024-08-20 10:35:22,472-src.exception-ERROR-Failed to save the model 'AdaBoost Classifier'.
+2024-08-20 10:35:22,472-src.exception-ERROR-[Errno 2] No such file or directory: 'fraud_detection_system/models/adaboost_classifier.pkl'
+2024-08-20 10:35:22,472-__main__-ERROR-Model training process failed: Failed to save the model 'AdaBoost Classifier'.
+2024-08-20 10:37:12,346-__main__-INFO-Starting the model training process...
+2024-08-20 10:37:12,803-src.data_modelling-INFO-Starting training and evaluation of models...
+2024-08-20 10:37:12,839-src.data_modelling-INFO-Training Logistic Regression...
+2024-08-20 10:37:13,584-src.data_modelling-INFO-Logistic Regression completed with accuracy: 0.9946
+2024-08-20 10:37:13,584-src.data_modelling-INFO-Classification Report for Logistic Regression:
+              precision    recall  f1-score   support
+
+         0.0       0.99      1.00      1.00      2009
+         1.0       1.00      0.35      0.52        17
+
+    accuracy                           0.99      2026
+   macro avg       1.00      0.68      0.76      2026
+weighted avg       0.99      0.99      0.99      2026
+
+2024-08-20 10:37:13,585-src.data_modelling-INFO-Confusion Matrix for Logistic Regression:
+[[2009    0]
+ [  11    6]]
+
+2024-08-20 10:37:13,585-src.data_modelling-INFO-Training Gradient Boosting...
+2024-08-20 10:37:18,569-src.data_modelling-INFO-Gradient Boosting completed with accuracy: 0.9951
+2024-08-20 10:37:18,569-src.data_modelling-INFO-Classification Report for Gradient Boosting:
+              precision    recall  f1-score   support
+
+         0.0       1.00      1.00      1.00      2009
+         1.0       0.89      0.47      0.62        17
+
+    accuracy                           1.00      2026
+   macro avg       0.94      0.74      0.81      2026
+weighted avg       0.99      1.00      0.99      2026
+
+2024-08-20 10:37:18,570-src.data_modelling-INFO-Confusion Matrix for Gradient Boosting:
+[[2008    1]
+ [   9    8]]
+
+2024-08-20 10:37:18,570-src.data_modelling-INFO-Training k-Neighbors Classifier...
+2024-08-20 10:37:19,081-src.data_modelling-INFO-k-Neighbors Classifier completed with accuracy: 0.9926
+2024-08-20 10:37:19,081-src.data_modelling-INFO-Classification Report for k-Neighbors Classifier:
+              precision    recall  f1-score   support
+
+         0.0       0.99      1.00      1.00      2009
+         1.0       0.67      0.24      0.35        17
+
+    accuracy                           0.99      2026
+   macro avg       0.83      0.62      0.67      2026
+weighted avg       0.99      0.99      0.99      2026
+
+2024-08-20 10:37:19,082-src.data_modelling-INFO-Confusion Matrix for k-Neighbors Classifier:
+[[2007    2]
+ [  13    4]]
+
+2024-08-20 10:37:19,082-src.data_modelling-INFO-Training Decision Tree Classifier...
+2024-08-20 10:37:19,242-src.data_modelling-INFO-Decision Tree Classifier completed with accuracy: 0.9965
+2024-08-20 10:37:19,242-src.data_modelling-INFO-Classification Report for Decision Tree Classifier:
+              precision    recall  f1-score   support
+
+         0.0       1.00      1.00      1.00      2009
+         1.0       0.86      0.71      0.77        17
+
+    accuracy                           1.00      2026
+   macro avg       0.93      0.85      0.89      2026
+weighted avg       1.00      1.00      1.00      2026
+
+2024-08-20 10:37:19,243-src.data_modelling-INFO-Confusion Matrix for Decision Tree Classifier:
+[[2007    2]
+ [   5   12]]
+
+2024-08-20 10:37:19,243-src.data_modelling-INFO-Training Random Forest Classifier...
+2024-08-20 10:37:20,251-src.data_modelling-INFO-Random Forest Classifier completed with accuracy: 0.9951
+2024-08-20 10:37:20,251-src.data_modelling-INFO-Classification Report for Random Forest Classifier:
+              precision    recall  f1-score   support
+
+         0.0       1.00      1.00      1.00      2009
+         1.0       1.00      0.41      0.58        17
+
+    accuracy                           1.00      2026
+   macro avg       1.00      0.71      0.79      2026
+weighted avg       1.00      1.00      0.99      2026
+
+2024-08-20 10:37:20,252-src.data_modelling-INFO-Confusion Matrix for Random Forest Classifier:
+[[2009    0]
+ [  10    7]]
+
+2024-08-20 10:37:20,252-src.data_modelling-INFO-Training AdaBoost Classifier...
+2024-08-20 10:37:21,674-src.data_modelling-INFO-AdaBoost Classifier completed with accuracy: 0.9970
+2024-08-20 10:37:21,675-src.data_modelling-INFO-Classification Report for AdaBoost Classifier:
+              precision    recall  f1-score   support
+
+         0.0       1.00      1.00      1.00      2009
+         1.0       1.00      0.65      0.79        17
+
+    accuracy                           1.00      2026
+   macro avg       1.00      0.82      0.89      2026
+weighted avg       1.00      1.00      1.00      2026
+
+2024-08-20 10:37:21,676-src.data_modelling-INFO-Confusion Matrix for AdaBoost Classifier:
+[[2009    0]
+ [   6   11]]
+
+2024-08-20 10:37:21,678-src.data_modelling-ERROR-An error occurred while saving the model 'AdaBoost Classifier': [Errno 2] No such file or directory: 'fraud_detection_system/models/adaboost_classifier.pkl'
+2024-08-20 10:37:21,679-src.exception-ERROR-Failed to save the model 'AdaBoost Classifier'.
+2024-08-20 10:37:21,679-src.exception-ERROR-[Errno 2] No such file or directory: 'fraud_detection_system/models/adaboost_classifier.pkl'
+2024-08-20 10:37:21,679-__main__-ERROR-Model training process failed: Failed to save the model 'AdaBoost Classifier'.
+2024-08-20 10:38:19,317-__main__-INFO-Starting the model training process...
+2024-08-20 10:38:19,642-src.data_modelling-INFO-Starting training and evaluation of models...
+2024-08-20 10:38:19,662-src.data_modelling-INFO-Training Logistic Regression...
+2024-08-20 10:38:20,126-src.data_modelling-INFO-Logistic Regression completed with accuracy: 0.9946
+2024-08-20 10:38:20,127-src.data_modelling-INFO-Classification Report for Logistic Regression:
+              precision    recall  f1-score   support
+
+         0.0       0.99      1.00      1.00      2009
+         1.0       1.00      0.35      0.52        17
+
+    accuracy                           0.99      2026
+   macro avg       1.00      0.68      0.76      2026
+weighted avg       0.99      0.99      0.99      2026
+
+2024-08-20 10:38:20,127-src.data_modelling-INFO-Confusion Matrix for Logistic Regression:
+[[2009    0]
+ [  11    6]]
+
+2024-08-20 10:38:20,127-src.data_modelling-INFO-Training Gradient Boosting...
+2024-08-20 10:38:24,216-src.data_modelling-INFO-Gradient Boosting completed with accuracy: 0.9951
+2024-08-20 10:38:24,216-src.data_modelling-INFO-Classification Report for Gradient Boosting:
+              precision    recall  f1-score   support
+
+         0.0       1.00      1.00      1.00      2009
+         1.0       0.89      0.47      0.62        17
+
+    accuracy                           1.00      2026
+   macro avg       0.94      0.74      0.81      2026
+weighted avg       0.99      1.00      0.99      2026
+
+2024-08-20 10:38:24,216-src.data_modelling-INFO-Confusion Matrix for Gradient Boosting:
+[[2008    1]
+ [   9    8]]
+
+2024-08-20 10:38:24,217-src.data_modelling-INFO-Training k-Neighbors Classifier...
+2024-08-20 10:38:24,621-src.data_modelling-INFO-k-Neighbors Classifier completed with accuracy: 0.9926
+2024-08-20 10:38:24,621-src.data_modelling-INFO-Classification Report for k-Neighbors Classifier:
+              precision    recall  f1-score   support
+
+         0.0       0.99      1.00      1.00      2009
+         1.0       0.67      0.24      0.35        17
+
+    accuracy                           0.99      2026
+   macro avg       0.83      0.62      0.67      2026
+weighted avg       0.99      0.99      0.99      2026
+
+2024-08-20 10:38:24,622-src.data_modelling-INFO-Confusion Matrix for k-Neighbors Classifier:
+[[2007    2]
+ [  13    4]]
+
+2024-08-20 10:38:24,622-src.data_modelling-INFO-Training Decision Tree Classifier...
+2024-08-20 10:38:24,760-src.data_modelling-INFO-Decision Tree Classifier completed with accuracy: 0.9965
+2024-08-20 10:38:24,760-src.data_modelling-INFO-Classification Report for Decision Tree Classifier:
+              precision    recall  f1-score   support
+
+         0.0       1.00      1.00      1.00      2009
+         1.0       0.86      0.71      0.77        17
+
+    accuracy                           1.00      2026
+   macro avg       0.93      0.85      0.89      2026
+weighted avg       1.00      1.00      1.00      2026
+
+2024-08-20 10:38:24,761-src.data_modelling-INFO-Confusion Matrix for Decision Tree Classifier:
+[[2007    2]
+ [   5   12]]
+
+2024-08-20 10:38:24,761-src.data_modelling-INFO-Training Random Forest Classifier...
+2024-08-20 10:38:25,646-src.data_modelling-INFO-Random Forest Classifier completed with accuracy: 0.9951
+2024-08-20 10:38:25,646-src.data_modelling-INFO-Classification Report for Random Forest Classifier:
+              precision    recall  f1-score   support
+
+         0.0       1.00      1.00      1.00      2009
+         1.0       1.00      0.41      0.58        17
+
+    accuracy                           1.00      2026
+   macro avg       1.00      0.71      0.79      2026
+weighted avg       1.00      1.00      0.99      2026
+
+2024-08-20 10:38:25,646-src.data_modelling-INFO-Confusion Matrix for Random Forest Classifier:
+[[2009    0]
+ [  10    7]]
+
+2024-08-20 10:38:25,648-src.data_modelling-ERROR-An error occurred while saving the model 'Decision Tree Classifier': [Errno 2] No such file or directory: 'fraud_detection_system/models/decision_tree_classifier.pkl'
+2024-08-20 10:38:25,648-src.exception-ERROR-Failed to save the model 'Decision Tree Classifier'.
+2024-08-20 10:38:25,648-src.exception-ERROR-[Errno 2] No such file or directory: 'fraud_detection_system/models/decision_tree_classifier.pkl'
+2024-08-20 10:38:25,648-__main__-ERROR-Model training process failed: Failed to save the model 'Decision Tree Classifier'.
+2024-08-20 10:51:15,050-__main__-INFO-Starting the model training process...
+2024-08-20 10:51:15,405-src.data_modelling-INFO-Starting the training and evaluation of models...
+2024-08-20 10:51:15,433-src.data_modelling-INFO-Training Logistic Regression...
+2024-08-20 10:51:15,991-src.data_modelling-INFO-Logistic Regression completed with accuracy: 0.9946
+2024-08-20 10:51:15,991-src.data_modelling-INFO-Classification Report for Logistic Regression:
+              precision    recall  f1-score   support
+
+         0.0       0.99      1.00      1.00      2009
+         1.0       1.00      0.35      0.52        17
+
+    accuracy                           0.99      2026
+   macro avg       1.00      0.68      0.76      2026
+weighted avg       0.99      0.99      0.99      2026
+
+2024-08-20 10:51:15,992-src.data_modelling-INFO-Confusion Matrix for Logistic Regression:
+[[2009    0]
+ [  11    6]]
+
+2024-08-20 10:51:15,992-src.data_modelling-INFO-Training Gradient Boosting...
+2024-08-20 10:51:20,416-src.data_modelling-INFO-Gradient Boosting completed with accuracy: 0.9951
+2024-08-20 10:51:20,416-src.data_modelling-INFO-Classification Report for Gradient Boosting:
+              precision    recall  f1-score   support
+
+         0.0       1.00      1.00      1.00      2009
+         1.0       0.89      0.47      0.62        17
+
+    accuracy                           1.00      2026
+   macro avg       0.94      0.74      0.81      2026
+weighted avg       0.99      1.00      0.99      2026
+
+2024-08-20 10:51:20,416-src.data_modelling-INFO-Confusion Matrix for Gradient Boosting:
+[[2008    1]
+ [   9    8]]
+
+2024-08-20 10:51:20,416-src.data_modelling-INFO-Training k-Neighbors Classifier...
+2024-08-20 10:51:20,830-src.data_modelling-INFO-k-Neighbors Classifier completed with accuracy: 0.9926
+2024-08-20 10:51:20,831-src.data_modelling-INFO-Classification Report for k-Neighbors Classifier:
+              precision    recall  f1-score   support
+
+         0.0       0.99      1.00      1.00      2009
+         1.0       0.67      0.24      0.35        17
+
+    accuracy                           0.99      2026
+   macro avg       0.83      0.62      0.67      2026
+weighted avg       0.99      0.99      0.99      2026
+
+2024-08-20 10:51:20,831-src.data_modelling-INFO-Confusion Matrix for k-Neighbors Classifier:
+[[2007    2]
+ [  13    4]]
+
+2024-08-20 10:51:20,831-src.data_modelling-INFO-Training Decision Tree Classifier...
+2024-08-20 10:51:20,963-src.data_modelling-INFO-Decision Tree Classifier completed with accuracy: 0.9965
+2024-08-20 10:51:20,963-src.data_modelling-INFO-Classification Report for Decision Tree Classifier:
+              precision    recall  f1-score   support
+
+         0.0       1.00      1.00      1.00      2009
+         1.0       0.86      0.71      0.77        17
+
+    accuracy                           1.00      2026
+   macro avg       0.93      0.85      0.89      2026
+weighted avg       1.00      1.00      1.00      2026
+
+2024-08-20 10:51:20,964-src.data_modelling-INFO-Confusion Matrix for Decision Tree Classifier:
+[[2007    2]
+ [   5   12]]
+
+2024-08-20 10:51:20,964-src.data_modelling-INFO-Training Random Forest Classifier...
+2024-08-20 10:51:21,850-src.data_modelling-INFO-Random Forest Classifier completed with accuracy: 0.9951
+2024-08-20 10:51:21,850-src.data_modelling-INFO-Classification Report for Random Forest Classifier:
+              precision    recall  f1-score   support
+
+         0.0       1.00      1.00      1.00      2009
+         1.0       1.00      0.41      0.58        17
+
+    accuracy                           1.00      2026
+   macro avg       1.00      0.71      0.79      2026
+weighted avg       1.00      1.00      0.99      2026
+
+2024-08-20 10:51:21,850-src.data_modelling-INFO-Confusion Matrix for Random Forest Classifier:
+[[2009    0]
+ [  10    7]]
+
+2024-08-20 10:53:00,883-__main__-INFO-Starting the model training process...
+2024-08-20 10:53:01,359-src.data_modelling-INFO-Starting the training and evaluation of models...
+2024-08-20 10:53:01,389-src.data_modelling-INFO-Training Logistic Regression...
+2024-08-20 10:53:01,953-src.data_modelling-INFO-Logistic Regression completed with accuracy: 0.9946
+2024-08-20 10:53:01,953-src.data_modelling-INFO-Classification Report for Logistic Regression:
+              precision    recall  f1-score   support
+
+         0.0       0.99      1.00      1.00      2009
+         1.0       1.00      0.35      0.52        17
+
+    accuracy                           0.99      2026
+   macro avg       1.00      0.68      0.76      2026
+weighted avg       0.99      0.99      0.99      2026
+
+2024-08-20 10:53:01,954-src.data_modelling-INFO-Confusion Matrix for Logistic Regression:
+[[2009    0]
+ [  11    6]]
+
+2024-08-20 10:53:01,954-src.data_modelling-INFO-Training Gradient Boosting...
+2024-08-20 10:53:06,859-src.data_modelling-INFO-Gradient Boosting completed with accuracy: 0.9951
+2024-08-20 10:53:06,859-src.data_modelling-INFO-Classification Report for Gradient Boosting:
+              precision    recall  f1-score   support
+
+         0.0       1.00      1.00      1.00      2009
+         1.0       0.89      0.47      0.62        17
+
+    accuracy                           1.00      2026
+   macro avg       0.94      0.74      0.81      2026
+weighted avg       0.99      1.00      0.99      2026
+
+2024-08-20 10:53:06,859-src.data_modelling-INFO-Confusion Matrix for Gradient Boosting:
+[[2008    1]
+ [   9    8]]
+
+2024-08-20 10:53:06,860-src.data_modelling-INFO-Training k-Neighbors Classifier...
+2024-08-20 10:53:07,356-src.data_modelling-INFO-k-Neighbors Classifier completed with accuracy: 0.9926
+2024-08-20 10:53:07,357-src.data_modelling-INFO-Classification Report for k-Neighbors Classifier:
+              precision    recall  f1-score   support
+
+         0.0       0.99      1.00      1.00      2009
+         1.0       0.67      0.24      0.35        17
+
+    accuracy                           0.99      2026
+   macro avg       0.83      0.62      0.67      2026
+weighted avg       0.99      0.99      0.99      2026
+
+2024-08-20 10:53:07,358-src.data_modelling-INFO-Confusion Matrix for k-Neighbors Classifier:
+[[2007    2]
+ [  13    4]]
+
+2024-08-20 10:53:07,358-src.data_modelling-INFO-Training Decision Tree Classifier...
+2024-08-20 10:53:07,499-src.data_modelling-INFO-Decision Tree Classifier completed with accuracy: 0.9965
+2024-08-20 10:53:07,499-src.data_modelling-INFO-Classification Report for Decision Tree Classifier:
+              precision    recall  f1-score   support
+
+         0.0       1.00      1.00      1.00      2009
+         1.0       0.86      0.71      0.77        17
+
+    accuracy                           1.00      2026
+   macro avg       0.93      0.85      0.89      2026
+weighted avg       1.00      1.00      1.00      2026
+
+2024-08-20 10:53:07,500-src.data_modelling-INFO-Confusion Matrix for Decision Tree Classifier:
+[[2007    2]
+ [   5   12]]
+
+2024-08-20 10:53:07,500-src.data_modelling-INFO-Training Random Forest Classifier...
+2024-08-20 10:53:08,479-src.data_modelling-INFO-Random Forest Classifier completed with accuracy: 0.9951
+2024-08-20 10:53:08,479-src.data_modelling-INFO-Classification Report for Random Forest Classifier:
+              precision    recall  f1-score   support
+
+         0.0       1.00      1.00      1.00      2009
+         1.0       1.00      0.41      0.58        17
+
+    accuracy                           1.00      2026
+   macro avg       1.00      0.71      0.79      2026
+weighted avg       1.00      1.00      0.99      2026
+
+2024-08-20 10:53:08,479-src.data_modelling-INFO-Confusion Matrix for Random Forest Classifier:
+[[2009    0]
+ [  10    7]]
+
+2024-08-20 10:55:32,280-__main__-INFO-Starting the model training process...
+2024-08-20 10:55:32,643-src.data_modelling-INFO-Starting the training and evaluation of models...
+2024-08-20 10:55:32,665-src.data_modelling-INFO-Training Logistic Regression...
+2024-08-20 10:55:33,162-src.data_modelling-INFO-Logistic Regression completed with accuracy: 0.9946
+2024-08-20 10:55:33,162-src.data_modelling-INFO-Classification Report for Logistic Regression:
+              precision    recall  f1-score   support
+
+         0.0       0.99      1.00      1.00      2009
+         1.0       1.00      0.35      0.52        17
+
+    accuracy                           0.99      2026
+   macro avg       1.00      0.68      0.76      2026
+weighted avg       0.99      0.99      0.99      2026
+
+2024-08-20 10:55:33,164-src.data_modelling-INFO-Confusion Matrix for Logistic Regression:
+[[2009    0]
+ [  11    6]]
+
+2024-08-20 10:55:33,164-src.data_modelling-INFO-Training Gradient Boosting...
+2024-08-20 10:55:37,485-src.data_modelling-INFO-Gradient Boosting completed with accuracy: 0.9951
+2024-08-20 10:55:37,485-src.data_modelling-INFO-Classification Report for Gradient Boosting:
+              precision    recall  f1-score   support
+
+         0.0       1.00      1.00      1.00      2009
+         1.0       0.89      0.47      0.62        17
+
+    accuracy                           1.00      2026
+   macro avg       0.94      0.74      0.81      2026
+weighted avg       0.99      1.00      0.99      2026
+
+2024-08-20 10:55:37,486-src.data_modelling-INFO-Confusion Matrix for Gradient Boosting:
+[[2008    1]
+ [   9    8]]
+
+2024-08-20 10:55:37,486-src.data_modelling-INFO-Training k-Neighbors Classifier...
+2024-08-20 10:55:37,910-src.data_modelling-INFO-k-Neighbors Classifier completed with accuracy: 0.9926
+2024-08-20 10:55:37,910-src.data_modelling-INFO-Classification Report for k-Neighbors Classifier:
+              precision    recall  f1-score   support
+
+         0.0       0.99      1.00      1.00      2009
+         1.0       0.67      0.24      0.35        17
+
+    accuracy                           0.99      2026
+   macro avg       0.83      0.62      0.67      2026
+weighted avg       0.99      0.99      0.99      2026
+
+2024-08-20 10:55:37,911-src.data_modelling-INFO-Confusion Matrix for k-Neighbors Classifier:
+[[2007    2]
+ [  13    4]]
+
+2024-08-20 10:55:37,911-src.data_modelling-INFO-Training Decision Tree Classifier...
+2024-08-20 10:55:38,055-src.data_modelling-INFO-Decision Tree Classifier completed with accuracy: 0.9965
+2024-08-20 10:55:38,055-src.data_modelling-INFO-Classification Report for Decision Tree Classifier:
+              precision    recall  f1-score   support
+
+         0.0       1.00      1.00      1.00      2009
+         1.0       0.86      0.71      0.77        17
+
+    accuracy                           1.00      2026
+   macro avg       0.93      0.85      0.89      2026
+weighted avg       1.00      1.00      1.00      2026
+
+2024-08-20 10:55:38,056-src.data_modelling-INFO-Confusion Matrix for Decision Tree Classifier:
+[[2007    2]
+ [   5   12]]
+
+2024-08-20 10:55:38,056-src.data_modelling-INFO-Training Random Forest Classifier...
+2024-08-20 10:55:38,976-src.data_modelling-INFO-Random Forest Classifier completed with accuracy: 0.9951
+2024-08-20 10:55:38,977-src.data_modelling-INFO-Classification Report for Random Forest Classifier:
+              precision    recall  f1-score   support
+
+         0.0       1.00      1.00      1.00      2009
+         1.0       1.00      0.41      0.58        17
+
+    accuracy                           1.00      2026
+   macro avg       1.00      0.71      0.79      2026
+weighted avg       1.00      1.00      0.99      2026
+
+2024-08-20 10:55:38,977-src.data_modelling-INFO-Confusion Matrix for Random Forest Classifier:
+[[2009    0]
+ [  10    7]]
+
+2024-08-20 10:55:38,978-src.data_modelling-INFO-Best model identified: Decision Tree Classifier with accuracy: 0.9965
+2024-08-20 10:55:38,979-src.data_modelling-ERROR-An error occurred while saving the best model: name 'os' is not defined
+2024-08-20 10:55:38,979-src.exception-ERROR-Failed to save the best model.
+2024-08-20 10:55:38,979-src.exception-ERROR-name 'os' is not defined
+2024-08-20 10:55:38,980-__main__-ERROR-Model training process failed: Failed to save the best model.
+2024-08-20 10:57:57,406-__main__-INFO-Starting the model training process...
+2024-08-20 10:57:57,762-src.data_modelling-INFO-Starting the training and evaluation of models...
+2024-08-20 10:57:57,779-src.data_modelling-INFO-Training Logistic Regression...
+2024-08-20 10:57:58,286-src.data_modelling-INFO-Logistic Regression completed with accuracy: 0.9946
+2024-08-20 10:57:58,286-src.data_modelling-INFO-Classification Report for Logistic Regression:
+              precision    recall  f1-score   support
+
+         0.0       0.99      1.00      1.00      2009
+         1.0       1.00      0.35      0.52        17
+
+    accuracy                           0.99      2026
+   macro avg       1.00      0.68      0.76      2026
+weighted avg       0.99      0.99      0.99      2026
+
+2024-08-20 10:57:58,287-src.data_modelling-INFO-Confusion Matrix for Logistic Regression:
+[[2009    0]
+ [  11    6]]
+
+2024-08-20 10:57:58,287-src.data_modelling-INFO-Training Gradient Boosting...
+2024-08-20 10:58:02,772-src.data_modelling-INFO-Gradient Boosting completed with accuracy: 0.9951
+2024-08-20 10:58:02,773-src.data_modelling-INFO-Classification Report for Gradient Boosting:
+              precision    recall  f1-score   support
+
+         0.0       1.00      1.00      1.00      2009
+         1.0       0.89      0.47      0.62        17
+
+    accuracy                           1.00      2026
+   macro avg       0.94      0.74      0.81      2026
+weighted avg       0.99      1.00      0.99      2026
+
+2024-08-20 10:58:02,773-src.data_modelling-INFO-Confusion Matrix for Gradient Boosting:
+[[2008    1]
+ [   9    8]]
+
+2024-08-20 10:58:02,773-src.data_modelling-INFO-Training k-Neighbors Classifier...
+2024-08-20 10:58:03,563-src.data_modelling-INFO-k-Neighbors Classifier completed with accuracy: 0.9926
+2024-08-20 10:58:03,564-src.data_modelling-INFO-Classification Report for k-Neighbors Classifier:
+              precision    recall  f1-score   support
+
+         0.0       0.99      1.00      1.00      2009
+         1.0       0.67      0.24      0.35        17
+
+    accuracy                           0.99      2026
+   macro avg       0.83      0.62      0.67      2026
+weighted avg       0.99      0.99      0.99      2026
+
+2024-08-20 10:58:03,565-src.data_modelling-INFO-Confusion Matrix for k-Neighbors Classifier:
+[[2007    2]
+ [  13    4]]
+
+2024-08-20 10:58:03,565-src.data_modelling-INFO-Training Decision Tree Classifier...
+2024-08-20 10:58:03,732-src.data_modelling-INFO-Decision Tree Classifier completed with accuracy: 0.9965
+2024-08-20 10:58:03,732-src.data_modelling-INFO-Classification Report for Decision Tree Classifier:
+              precision    recall  f1-score   support
+
+         0.0       1.00      1.00      1.00      2009
+         1.0       0.86      0.71      0.77        17
+
+    accuracy                           1.00      2026
+   macro avg       0.93      0.85      0.89      2026
+weighted avg       1.00      1.00      1.00      2026
+
+2024-08-20 10:58:03,733-src.data_modelling-INFO-Confusion Matrix for Decision Tree Classifier:
+[[2007    2]
+ [   5   12]]
+
+2024-08-20 10:58:03,733-src.data_modelling-INFO-Training Random Forest Classifier...
+2024-08-20 10:58:04,724-src.data_modelling-INFO-Random Forest Classifier completed with accuracy: 0.9951
+2024-08-20 10:58:04,724-src.data_modelling-INFO-Classification Report for Random Forest Classifier:
+              precision    recall  f1-score   support
+
+         0.0       1.00      1.00      1.00      2009
+         1.0       1.00      0.41      0.58        17
+
+    accuracy                           1.00      2026
+   macro avg       1.00      0.71      0.79      2026
+weighted avg       1.00      1.00      0.99      2026
+
+2024-08-20 10:58:04,725-src.data_modelling-INFO-Confusion Matrix for Random Forest Classifier:
+[[2009    0]
+ [  10    7]]
+
+2024-08-20 10:58:04,726-src.data_modelling-INFO-Best model identified: Decision Tree Classifier with accuracy: 0.9965
+2024-08-20 10:58:04,726-src.data_modelling-INFO-Creating directory fraud_detection_system/models...
+2024-08-20 10:58:04,727-src.data_modelling-INFO-Saving the best model to fraud_detection_system/models/decision_tree_classifier.pkl...
+2024-08-20 10:58:04,738-src.data_modelling-INFO-Best model saved successfully.
+2024-08-20 10:58:04,738-__main__-INFO-Model training process completed successfully.
+2024-08-20 10:58:04,739-__main__-INFO-Best model: Decision Tree Classifier with accuracy: 0.9965
+2024-08-20 11:02:21,012-__main__-INFO-Starting the model training process...
+2024-08-20 11:02:21,348-src.data_modelling-INFO-Starting the training and evaluation of models...
+2024-08-20 11:02:21,365-src.data_modelling-INFO-Training Logistic Regression...
+2024-08-20 11:02:21,904-src.data_modelling-INFO-Logistic Regression completed with accuracy: 0.9946
+2024-08-20 11:02:21,904-src.data_modelling-INFO-Classification Report for Logistic Regression:
+              precision    recall  f1-score   support
+
+         0.0       0.99      1.00      1.00      2009
+         1.0       1.00      0.35      0.52        17
+
+    accuracy                           0.99      2026
+   macro avg       1.00      0.68      0.76      2026
+weighted avg       0.99      0.99      0.99      2026
+
+2024-08-20 11:02:21,905-src.data_modelling-INFO-Confusion Matrix for Logistic Regression:
+[[2009    0]
+ [  11    6]]
+
+2024-08-20 11:02:21,905-src.data_modelling-INFO-Training Gradient Boosting...
+2024-08-20 11:02:25,995-src.data_modelling-INFO-Gradient Boosting completed with accuracy: 0.9951
+2024-08-20 11:02:25,996-src.data_modelling-INFO-Classification Report for Gradient Boosting:
+              precision    recall  f1-score   support
+
+         0.0       1.00      1.00      1.00      2009
+         1.0       0.89      0.47      0.62        17
+
+    accuracy                           1.00      2026
+   macro avg       0.94      0.74      0.81      2026
+weighted avg       0.99      1.00      0.99      2026
+
+2024-08-20 11:02:25,996-src.data_modelling-INFO-Confusion Matrix for Gradient Boosting:
+[[2008    1]
+ [   9    8]]
+
+2024-08-20 11:02:25,996-src.data_modelling-INFO-Training k-Neighbors Classifier...
+2024-08-20 11:02:26,414-src.data_modelling-INFO-k-Neighbors Classifier completed with accuracy: 0.9926
+2024-08-20 11:02:26,414-src.data_modelling-INFO-Classification Report for k-Neighbors Classifier:
+              precision    recall  f1-score   support
+
+         0.0       0.99      1.00      1.00      2009
+         1.0       0.67      0.24      0.35        17
+
+    accuracy                           0.99      2026
+   macro avg       0.83      0.62      0.67      2026
+weighted avg       0.99      0.99      0.99      2026
+
+2024-08-20 11:02:26,415-src.data_modelling-INFO-Confusion Matrix for k-Neighbors Classifier:
+[[2007    2]
+ [  13    4]]
+
+2024-08-20 11:02:26,415-src.data_modelling-INFO-Training Decision Tree Classifier...
+2024-08-20 11:02:26,563-src.data_modelling-INFO-Decision Tree Classifier completed with accuracy: 0.9965
+2024-08-20 11:02:26,563-src.data_modelling-INFO-Classification Report for Decision Tree Classifier:
+              precision    recall  f1-score   support
+
+         0.0       1.00      1.00      1.00      2009
+         1.0       0.86      0.71      0.77        17
+
+    accuracy                           1.00      2026
+   macro avg       0.93      0.85      0.89      2026
+weighted avg       1.00      1.00      1.00      2026
+
+2024-08-20 11:02:26,564-src.data_modelling-INFO-Confusion Matrix for Decision Tree Classifier:
+[[2007    2]
+ [   5   12]]
+
+2024-08-20 11:02:26,564-src.data_modelling-INFO-Training Random Forest Classifier...
+2024-08-20 11:02:27,454-src.data_modelling-INFO-Random Forest Classifier completed with accuracy: 0.9951
+2024-08-20 11:02:27,455-src.data_modelling-INFO-Classification Report for Random Forest Classifier:
+              precision    recall  f1-score   support
+
+         0.0       1.00      1.00      1.00      2009
+         1.0       1.00      0.41      0.58        17
+
+    accuracy                           1.00      2026
+   macro avg       1.00      0.71      0.79      2026
+weighted avg       1.00      1.00      0.99      2026
+
+2024-08-20 11:02:27,455-src.data_modelling-INFO-Confusion Matrix for Random Forest Classifier:
+[[2009    0]
+ [  10    7]]
+
+2024-08-20 11:02:27,456-src.data_modelling-INFO-Best model identified: Decision Tree Classifier with accuracy: 0.9965
+2024-08-20 11:02:27,456-src.data_modelling-INFO-Saving the best model to ../fraud_detection_system/models/decision_tree_classifier.pkl...
+2024-08-20 11:02:27,465-src.data_modelling-INFO-Best model saved successfully.
+2024-08-20 11:02:27,465-__main__-INFO-Model training process completed successfully.
+2024-08-20 11:02:27,466-__main__-INFO-Best model: Decision Tree Classifier with accuracy: 0.9965
+2024-08-20 12:40:04,761-src.data_ingestion-INFO-DataIngestion initialized with file path: ../fraud_detetction_system/data/raw/transaction_data.csv
+2024-08-20 12:40:04,762-src.data_ingestion-ERROR-File not found: ../fraud_detetction_system/data/raw/transaction_data.csv
+2024-08-20 12:40:04,762-src.exception-ERROR-File not found: ../fraud_detetction_system/data/raw/transaction_data.csv
+2024-08-20 12:40:04,762-src.data_ingestion-ERROR-An error occurred while loading data: File not found: ../fraud_detetction_system/data/raw/transaction_data.csv
+2024-08-20 12:40:04,763-src.exception-ERROR-Failed to load data from ../fraud_detetction_system/data/raw/transaction_data.csv
+2024-08-20 12:40:04,763-src.exception-ERROR-File not found: ../fraud_detetction_system/data/raw/transaction_data.csv
+2024-08-20 12:40:39,430-src.data_ingestion-INFO-DataIngestion initialized with file path: ../fraud_detetction_system/data/raw/transaction_data.csv
+2024-08-20 12:40:39,431-src.data_ingestion-ERROR-File not found: ../fraud_detetction_system/data/raw/transaction_data.csv
+2024-08-20 12:40:39,431-src.exception-ERROR-File not found: ../fraud_detetction_system/data/raw/transaction_data.csv
+2024-08-20 12:40:39,432-src.data_ingestion-ERROR-An error occurred while loading data: File not found: ../fraud_detetction_system/data/raw/transaction_data.csv
+2024-08-20 12:40:39,432-src.exception-ERROR-Failed to load data from ../fraud_detetction_system/data/raw/transaction_data.csv
+2024-08-20 12:40:39,432-src.exception-ERROR-File not found: ../fraud_detetction_system/data/raw/transaction_data.csv
+2024-08-20 12:41:21,116-src.data_ingestion-INFO-DataIngestion initialized with file path: ../fraud_detetction_system/data/raw/Dataset.csv
+2024-08-20 12:41:21,117-src.data_ingestion-ERROR-File not found: ../fraud_detetction_system/data/raw/Dataset.csv
+2024-08-20 12:41:21,117-src.exception-ERROR-File not found: ../fraud_detetction_system/data/raw/Dataset.csv
+2024-08-20 12:41:21,117-src.data_ingestion-ERROR-An error occurred while loading data: File not found: ../fraud_detetction_system/data/raw/Dataset.csv
+2024-08-20 12:41:21,117-src.exception-ERROR-Failed to load data from ../fraud_detetction_system/data/raw/Dataset.csv
+2024-08-20 12:41:21,117-src.exception-ERROR-File not found: ../fraud_detetction_system/data/raw/Dataset.csv
+2024-08-20 12:42:10,480-src.data_ingestion-INFO-DataIngestion initialized with file path: ../fraud_detetection_system/data/raw/Dataset.csv
+2024-08-20 12:42:10,483-src.data_ingestion-ERROR-File not found: ../fraud_detetection_system/data/raw/Dataset.csv
+2024-08-20 12:42:10,483-src.exception-ERROR-File not found: ../fraud_detetection_system/data/raw/Dataset.csv
+2024-08-20 12:42:10,483-src.data_ingestion-ERROR-An error occurred while loading data: File not found: ../fraud_detetection_system/data/raw/Dataset.csv
+2024-08-20 12:42:10,483-src.exception-ERROR-Failed to load data from ../fraud_detetection_system/data/raw/Dataset.csv
+2024-08-20 12:42:10,484-src.exception-ERROR-File not found: ../fraud_detetection_system/data/raw/Dataset.csv
+2024-08-20 12:44:56,741-__main__-INFO-DataIngestion initialized with file path: ../fraud_detection_system/data/raw/Datasets.csv
+2024-08-20 12:44:56,742-__main__-INFO-Loading data from ../fraud_detection_system/data/raw/Datasets.csv
+2024-08-20 12:44:56,818-__main__-INFO-Data loaded successfully with 10127 records and 17 columns.
+2024-08-20 12:44:56,818-__main__-INFO-Starting data validation...
+2024-08-20 12:44:56,830-__main__-WARNING-Data contains 44 missing values. Consider handling them in preprocessing.
+2024-08-20 12:44:56,871-__main__-INFO-Data validation completed successfully.
+2024-08-20 12:44:56,871-__main__-INFO-Starting data preprocessing...
+2024-08-20 12:44:56,888-__main__-INFO-Dropped missing values. Data shape changed from (10127, 17) to (10088, 17).
+2024-08-20 12:44:56,939-__main__-INFO-Categorical columns ['type', 'branch', 'Acct type', 'Time of day'] encoded using one-hot encoding.
+2024-08-20 12:44:56,939-__main__-INFO-Basic preprocessing completed successfully.
+2024-08-20 12:44:57,453-__main__-INFO-Preprocessed data saved to fraud_detection_system/data/processed/transaction_data.csv
+2024-08-20 12:47:29,547-__main__-INFO-DataIngestion initialized with file path: ../fraud_detection_system/data/raw/Datasets.csv
+2024-08-20 12:47:29,548-__main__-INFO-Loading data from ../fraud_detection_system/data/raw/Datasets.csv
+2024-08-20 12:47:29,798-__main__-INFO-Data loaded successfully with 10127 records and 17 columns.
+2024-08-20 12:47:29,798-__main__-INFO-Starting data validation...
+2024-08-20 12:47:29,818-__main__-WARNING-Data contains 44 missing values. Consider handling them in preprocessing.
+2024-08-20 12:47:29,912-__main__-INFO-Data validation completed successfully.
+2024-08-20 12:47:29,912-__main__-INFO-Starting data preprocessing...
+2024-08-20 12:47:29,986-__main__-INFO-Dropped missing values. Data shape changed from (10127, 17) to (10088, 17).
+2024-08-20 12:47:30,142-__main__-INFO-Categorical columns ['type', 'branch', 'Acct type', 'Time of day'] encoded using one-hot encoding.
+2024-08-20 12:47:30,143-__main__-INFO-Basic preprocessing completed successfully.
+2024-08-20 12:47:31,211-__main__-INFO-Preprocessed data saved to ../fraud_detection_system/data/interim/transaction_data.csv
+2024-08-20 12:49:12,256-src.data_ingestion-INFO-DataIngestion initialized with file path: ../fraud_detetection_system/data/raw/Dataset.csv
+2024-08-20 12:49:12,257-src.data_ingestion-ERROR-File not found: ../fraud_detetection_system/data/raw/Dataset.csv
+2024-08-20 12:49:12,257-src.exception-ERROR-File not found: ../fraud_detetection_system/data/raw/Dataset.csv
+2024-08-20 12:49:12,258-src.data_ingestion-ERROR-An error occurred while loading data: File not found: ../fraud_detetection_system/data/raw/Dataset.csv
+2024-08-20 12:49:12,259-src.exception-ERROR-Failed to load data from ../fraud_detetection_system/data/raw/Dataset.csv
+2024-08-20 12:49:12,259-src.exception-ERROR-File not found: ../fraud_detetection_system/data/raw/Dataset.csv
+2024-08-20 12:49:50,074-src.data_ingestion-INFO-DataIngestion initialized with file path: ../fraud_detection_system/data/interim/transaction_data.csv
+2024-08-20 12:49:50,075-src.data_ingestion-INFO-Loading data from ../fraud_detection_system/data/interim/transaction_data.csv
+2024-08-20 12:49:50,604-src.data_ingestion-INFO-Data loaded successfully with 10088 records and 158 columns.
+2024-08-20 12:49:50,604-src.feature_engineering-INFO-FeatureEngineering initialized.
+2024-08-20 12:51:18,670-src.data_ingestion-INFO-DataIngestion initialized with file path: ../fraud_detection_system/data/interim/transaction_data.csv
+2024-08-20 12:51:18,672-src.data_ingestion-INFO-Loading data from ../fraud_detection_system/data/interim/transaction_data.csv
+2024-08-20 12:51:19,021-src.data_ingestion-INFO-Data loaded successfully with 10088 records and 158 columns.
+2024-08-20 12:51:19,021-src.feature_engineering-INFO-FeatureEngineering initialized.
+2024-08-20 12:51:19,022-src.feature_engineering-INFO-Creating features...
+2024-08-20 12:51:19,062-src.feature_engineering-INFO-Features created successfully.
+2024-08-20 12:54:40,351-src.data_ingestion-INFO-DataIngestion initialized with file path: ../fraud_detection_system/data/interim/transaction_data.csv
+2024-08-20 12:54:40,352-src.data_ingestion-INFO-Loading data from ../fraud_detection_system/data/interim/transaction_data.csv
+2024-08-20 12:54:40,688-src.data_ingestion-INFO-Data loaded successfully with 10088 records and 158 columns.
+2024-08-20 12:54:40,689-src.feature_engineering-INFO-FeatureEngineering initialized.
+2024-08-20 12:54:40,689-src.feature_engineering-INFO-Checking for and handling missing values...
+2024-08-20 12:54:40,710-src.feature_engineering-INFO-Creating features...
+2024-08-20 12:54:40,762-src.feature_engineering-INFO-Features created successfully.
+2024-08-20 12:54:40,763-src.feature_engineering-INFO-Encoding categorical features...
+2024-08-20 12:54:40,765-src.feature_engineering-ERROR-Error in encoding categorical features: "None of [Index(['type', 'branch', 'Acct type'], dtype='object')] are in the [columns]"
+2024-08-20 12:54:40,766-src.exception-ERROR-Failed to encode categorical features.
+2024-08-20 12:54:40,766-src.exception-ERROR-"None of [Index(['type', 'branch', 'Acct type'], dtype='object')] are in the [columns]"
+2024-08-20 12:55:07,846-src.data_ingestion-INFO-DataIngestion initialized with file path: ../fraud_detection_system/data/interim/transaction_data.csv
+2024-08-20 12:55:07,846-src.data_ingestion-INFO-Loading data from ../fraud_detection_system/data/interim/transaction_data.csv
+2024-08-20 12:55:08,193-src.data_ingestion-INFO-Data loaded successfully with 10088 records and 158 columns.
+2024-08-20 12:55:08,193-src.feature_engineering-INFO-FeatureEngineering initialized.
+2024-08-20 12:55:08,194-src.feature_engineering-INFO-Checking for and handling missing values...
+2024-08-20 12:55:08,230-src.feature_engineering-INFO-Creating features...
+2024-08-20 12:55:08,261-src.feature_engineering-INFO-Features created successfully.
+2024-08-20 12:55:08,274-src.data_modelling-INFO-Starting the training and evaluation of models...
+2024-08-20 12:55:08,292-src.data_modelling-INFO-Training Logistic Regression...
+2024-08-20 12:55:08,296-src.data_modelling-ERROR-An error occurred during model training and evaluation: could not convert string to float: 'C1660451908'
+2024-08-20 12:55:08,296-src.exception-ERROR-Failed to train and evaluate models.
+2024-08-20 12:55:08,296-src.exception-ERROR-could not convert string to float: 'C1660451908'
+2024-08-20 12:56:29,515-src.data_ingestion-INFO-DataIngestion initialized with file path: ../fraud_detection_system/data/interim/transaction_data.csv
+2024-08-20 12:56:29,516-src.data_ingestion-INFO-Loading data from ../fraud_detection_system/data/interim/transaction_data.csv
+2024-08-20 12:56:29,808-src.data_ingestion-INFO-Data loaded successfully with 10088 records and 158 columns.
+2024-08-20 12:56:29,808-src.feature_engineering-INFO-FeatureEngineering initialized.
+2024-08-20 12:56:29,808-src.feature_engineering-INFO-Checking for and handling missing values...
+2024-08-20 12:56:29,829-src.feature_engineering-INFO-Creating features...
+2024-08-20 12:56:29,873-src.feature_engineering-INFO-Features created successfully.
+2024-08-20 12:56:29,874-src.feature_engineering-INFO-Encoding categorical features...
+2024-08-20 12:56:29,879-src.feature_engineering-ERROR-Error in encoding categorical features: "None of [Index(['type', 'branch', 'Acct type'], dtype='object')] are in the [columns]"
+2024-08-20 12:56:29,879-src.exception-ERROR-Failed to encode categorical features.
+2024-08-20 12:56:29,879-src.exception-ERROR-"None of [Index(['type', 'branch', 'Acct type'], dtype='object')] are in the [columns]"
+2024-08-20 13:01:34,969-src.data_ingestion-INFO-DataIngestion initialized with file path: ../fraud_detection_system/data/interim/transaction_data.csv
+2024-08-20 13:01:34,970-src.data_ingestion-INFO-Loading data from ../fraud_detection_system/data/interim/transaction_data.csv
+2024-08-20 13:01:35,571-src.data_ingestion-INFO-Data loaded successfully with 10088 records and 158 columns.
+2024-08-20 13:01:35,589-src.feature_engineering-INFO-FeatureEngineering initialized.
+2024-08-20 13:01:35,589-src.feature_engineering-INFO-Checking for and handling missing values...
+2024-08-20 13:01:35,610-src.feature_engineering-INFO-Creating features...
+2024-08-20 13:01:35,640-src.feature_engineering-INFO-Features created successfully.
+2024-08-20 13:01:35,641-src.feature_engineering-INFO-Encoding categorical features...
+2024-08-20 13:01:35,659-src.feature_engineering-ERROR-Error in encoding categorical features: "None of [Index(['type', 'branch', 'Acct type'], dtype='object')] are in the [columns]"
+2024-08-20 13:01:35,659-src.exception-ERROR-Failed to encode categorical features.
+2024-08-20 13:01:35,660-src.exception-ERROR-"None of [Index(['type', 'branch', 'Acct type'], dtype='object')] are in the [columns]"
+2024-08-20 13:04:43,875-src.data_ingestion-INFO-DataIngestion initialized with file path: ../fraud_detection_system/data/raw/Datasets.csv
+2024-08-20 13:04:43,876-src.data_ingestion-INFO-Loading data from ../fraud_detection_system/data/raw/Datasets.csv
+2024-08-20 13:04:43,999-src.data_ingestion-INFO-Data loaded successfully with 10127 records and 17 columns.
+2024-08-20 13:04:44,000-src.feature_engineering-INFO-FeatureEngineering initialized.
+2024-08-20 13:04:44,001-src.feature_engineering-INFO-Checking for and handling missing values...
+2024-08-20 13:04:44,042-src.feature_engineering-INFO-Handled missing values in numeric columns with median strategy.
+2024-08-20 13:04:44,098-src.feature_engineering-INFO-Handled missing values in categorical columns with most frequent strategy.
+2024-08-20 13:04:44,100-src.feature_engineering-INFO-Creating features...
+2024-08-20 13:04:44,138-src.feature_engineering-INFO-Features created successfully.
+2024-08-20 13:04:44,139-src.feature_engineering-INFO-Encoding categorical features...
+2024-08-20 13:04:44,177-src.feature_engineering-INFO-Categorical features encoded successfully.
+2024-08-20 13:04:44,185-src.data_modelling-INFO-Starting the training and evaluation of models...
+2024-08-20 13:04:44,216-src.data_modelling-INFO-Training Logistic Regression...
+2024-08-20 13:04:44,220-src.data_modelling-ERROR-An error occurred during model training and evaluation: could not convert string to float: 'C41646355'
+2024-08-20 13:04:44,220-src.exception-ERROR-Failed to train and evaluate models.
+2024-08-20 13:04:44,220-src.exception-ERROR-could not convert string to float: 'C41646355'
+2024-08-20 13:04:54,142-src.data_ingestion-INFO-DataIngestion initialized with file path: ../fraud_detection_system/data/raw/Datasets.csv
+2024-08-20 13:04:54,143-src.data_ingestion-INFO-Loading data from ../fraud_detection_system/data/raw/Datasets.csv
+2024-08-20 13:04:54,207-src.data_ingestion-INFO-Data loaded successfully with 10127 records and 17 columns.
+2024-08-20 13:04:54,208-src.feature_engineering-INFO-FeatureEngineering initialized.
+2024-08-20 13:04:54,208-src.feature_engineering-INFO-Checking for and handling missing values...
+2024-08-20 13:04:54,236-src.feature_engineering-INFO-Handled missing values in numeric columns with median strategy.
+2024-08-20 13:04:54,273-src.feature_engineering-INFO-Handled missing values in categorical columns with most frequent strategy.
+2024-08-20 13:04:54,276-src.feature_engineering-INFO-Creating features...
+2024-08-20 13:04:54,296-src.feature_engineering-INFO-Features created successfully.
+2024-08-20 13:04:54,297-src.feature_engineering-INFO-Encoding categorical features...
+2024-08-20 13:04:54,337-src.feature_engineering-INFO-Categorical features encoded successfully.
+2024-08-20 13:04:54,341-src.data_modelling-INFO-Starting the training and evaluation of models...
+2024-08-20 13:04:54,357-src.data_modelling-INFO-Training Logistic Regression...
+2024-08-20 13:04:54,361-src.data_modelling-ERROR-An error occurred during model training and evaluation: could not convert string to float: 'C41646355'
+2024-08-20 13:04:54,365-src.exception-ERROR-Failed to train and evaluate models.
+2024-08-20 13:04:54,365-src.exception-ERROR-could not convert string to float: 'C41646355'
+2024-08-20 13:06:10,930-src.data_ingestion-INFO-DataIngestion initialized with file path: ../fraud_detection_system/data/raw/Datasets.csv
+2024-08-20 13:06:10,931-src.data_ingestion-INFO-Loading data from ../fraud_detection_system/data/raw/Datasets.csv
+2024-08-20 13:06:11,042-src.data_ingestion-INFO-Data loaded successfully with 10127 records and 17 columns.
+2024-08-20 13:06:11,043-src.feature_engineering-INFO-FeatureEngineering initialized.
+2024-08-20 13:06:11,043-src.feature_engineering-INFO-Checking for and handling missing values...
+2024-08-20 13:06:11,086-src.feature_engineering-INFO-Handled missing values in numeric columns with median strategy.
+2024-08-20 13:06:11,125-src.feature_engineering-INFO-Handled missing values in categorical columns with most frequent strategy.
+2024-08-20 13:06:11,127-src.feature_engineering-INFO-Creating features...
+2024-08-20 13:06:11,163-src.feature_engineering-INFO-Features created successfully.
+2024-08-20 13:06:11,174-src.feature_engineering-INFO-Encoding categorical features...
+2024-08-20 13:06:11,212-src.feature_engineering-INFO-Categorical features encoded successfully.
+2024-08-20 13:06:11,219-src.data_modelling-INFO-Starting the training and evaluation of models...
+2024-08-20 13:06:11,236-src.data_modelling-INFO-Training Logistic Regression...
+2024-08-20 13:06:11,755-src.data_modelling-INFO-Logistic Regression completed with accuracy: 0.9946
+2024-08-20 13:06:11,756-src.data_modelling-INFO-Classification Report for Logistic Regression:
+              precision    recall  f1-score   support
+
+         0.0       0.99      1.00      1.00      2009
+         1.0       1.00      0.35      0.52        17
+
+    accuracy                           0.99      2026
+   macro avg       1.00      0.68      0.76      2026
+weighted avg       0.99      0.99      0.99      2026
+
+2024-08-20 13:06:11,757-src.data_modelling-INFO-Confusion Matrix for Logistic Regression:
+[[2009    0]
+ [  11    6]]
+
+2024-08-20 13:06:11,757-src.data_modelling-INFO-Training Gradient Boosting...
+2024-08-20 13:06:15,916-src.data_modelling-INFO-Gradient Boosting completed with accuracy: 0.9951
+2024-08-20 13:06:15,916-src.data_modelling-INFO-Classification Report for Gradient Boosting:
+              precision    recall  f1-score   support
+
+         0.0       1.00      1.00      1.00      2009
+         1.0       0.89      0.47      0.62        17
+
+    accuracy                           1.00      2026
+   macro avg       0.94      0.74      0.81      2026
+weighted avg       0.99      1.00      0.99      2026
+
+2024-08-20 13:06:15,917-src.data_modelling-INFO-Confusion Matrix for Gradient Boosting:
+[[2008    1]
+ [   9    8]]
+
+2024-08-20 13:06:15,917-src.data_modelling-INFO-Training k-Neighbors Classifier...
+2024-08-20 13:06:16,356-src.data_modelling-INFO-k-Neighbors Classifier completed with accuracy: 0.9926
+2024-08-20 13:06:16,356-src.data_modelling-INFO-Classification Report for k-Neighbors Classifier:
+              precision    recall  f1-score   support
+
+         0.0       0.99      1.00      1.00      2009
+         1.0       0.67      0.24      0.35        17
+
+    accuracy                           0.99      2026
+   macro avg       0.83      0.62      0.67      2026
+weighted avg       0.99      0.99      0.99      2026
+
+2024-08-20 13:06:16,356-src.data_modelling-INFO-Confusion Matrix for k-Neighbors Classifier:
+[[2007    2]
+ [  13    4]]
+
+2024-08-20 13:06:16,357-src.data_modelling-INFO-Training Decision Tree Classifier...
+2024-08-20 13:06:16,509-src.data_modelling-INFO-Decision Tree Classifier completed with accuracy: 0.9965
+2024-08-20 13:06:16,509-src.data_modelling-INFO-Classification Report for Decision Tree Classifier:
+              precision    recall  f1-score   support
+
+         0.0       1.00      1.00      1.00      2009
+         1.0       0.86      0.71      0.77        17
+
+    accuracy                           1.00      2026
+   macro avg       0.93      0.85      0.89      2026
+weighted avg       1.00      1.00      1.00      2026
+
+2024-08-20 13:06:16,509-src.data_modelling-INFO-Confusion Matrix for Decision Tree Classifier:
+[[2007    2]
+ [   5   12]]
+
+2024-08-20 13:06:16,509-src.data_modelling-INFO-Training Random Forest Classifier...
+2024-08-20 13:06:17,398-src.data_modelling-INFO-Random Forest Classifier completed with accuracy: 0.9951
+2024-08-20 13:06:17,398-src.data_modelling-INFO-Classification Report for Random Forest Classifier:
+              precision    recall  f1-score   support
+
+         0.0       1.00      1.00      1.00      2009
+         1.0       1.00      0.41      0.58        17
+
+    accuracy                           1.00      2026
+   macro avg       1.00      0.71      0.79      2026
+weighted avg       1.00      1.00      0.99      2026
+
+2024-08-20 13:06:17,398-src.data_modelling-INFO-Confusion Matrix for Random Forest Classifier:
+[[2009    0]
+ [  10    7]]
+
+2024-08-20 16:37:21,309-src.data_ingestion-INFO-DataIngestion initialized with file path: ../fraud_detection_system/data/raw/Datasets.csv
+2024-08-20 16:37:21,310-src.data_ingestion-INFO-Loading data from ../fraud_detection_system/data/raw/Datasets.csv
+2024-08-20 16:37:21,442-src.data_ingestion-INFO-Data loaded successfully with 10127 records and 17 columns.
+2024-08-20 16:37:21,444-src.feature_engineering-INFO-FeatureEngineering initialized.
+2024-08-20 16:37:21,444-src.feature_engineering-INFO-Checking for and handling missing values...
+2024-08-20 16:37:21,498-src.feature_engineering-INFO-Handled missing values in numeric columns with median strategy.
+2024-08-20 16:37:21,542-src.feature_engineering-INFO-Handled missing values in categorical columns with most frequent strategy.
+2024-08-20 16:37:21,545-src.feature_engineering-INFO-Creating features...
+2024-08-20 16:37:21,575-src.feature_engineering-INFO-Features created successfully.
+2024-08-20 16:37:21,579-src.feature_engineering-INFO-Encoding categorical features...
+2024-08-20 16:37:21,619-src.feature_engineering-INFO-Categorical features encoded successfully.
+2024-08-20 16:37:21,625-src.data_modelling-INFO-Starting the training and evaluation of models...
+2024-08-20 16:37:21,649-src.data_modelling-INFO-Training Logistic Regression...
+2024-08-20 16:37:22,317-src.data_modelling-INFO-Logistic Regression completed with accuracy: 0.9946
+2024-08-20 16:37:22,320-src.data_modelling-INFO-Classification Report for Logistic Regression:
+              precision    recall  f1-score   support
+
+         0.0       0.99      1.00      1.00      2009
+         1.0       1.00      0.35      0.52        17
+
+    accuracy                           0.99      2026
+   macro avg       1.00      0.68      0.76      2026
+weighted avg       0.99      0.99      0.99      2026
+
+2024-08-20 16:37:22,321-src.data_modelling-INFO-Confusion Matrix for Logistic Regression:
+[[2009    0]
+ [  11    6]]
+
+2024-08-20 16:37:22,321-src.data_modelling-INFO-Training Gradient Boosting...
+2024-08-20 16:37:27,126-src.data_modelling-INFO-Gradient Boosting completed with accuracy: 0.9951
+2024-08-20 16:37:27,126-src.data_modelling-INFO-Classification Report for Gradient Boosting:
+              precision    recall  f1-score   support
+
+         0.0       1.00      1.00      1.00      2009
+         1.0       0.89      0.47      0.62        17
+
+    accuracy                           1.00      2026
+   macro avg       0.94      0.74      0.81      2026
+weighted avg       0.99      1.00      0.99      2026
+
+2024-08-20 16:37:27,126-src.data_modelling-INFO-Confusion Matrix for Gradient Boosting:
+[[2008    1]
+ [   9    8]]
+
+2024-08-20 16:37:27,126-src.data_modelling-INFO-Training k-Neighbors Classifier...
+2024-08-20 16:37:27,575-src.data_modelling-INFO-k-Neighbors Classifier completed with accuracy: 0.9926
+2024-08-20 16:37:27,576-src.data_modelling-INFO-Classification Report for k-Neighbors Classifier:
+              precision    recall  f1-score   support
+
+         0.0       0.99      1.00      1.00      2009
+         1.0       0.67      0.24      0.35        17
+
+    accuracy                           0.99      2026
+   macro avg       0.83      0.62      0.67      2026
+weighted avg       0.99      0.99      0.99      2026
+
+2024-08-20 16:37:27,576-src.data_modelling-INFO-Confusion Matrix for k-Neighbors Classifier:
+[[2007    2]
+ [  13    4]]
+
+2024-08-20 16:37:27,576-src.data_modelling-INFO-Training Decision Tree Classifier...
+2024-08-20 16:37:27,743-src.data_modelling-INFO-Decision Tree Classifier completed with accuracy: 0.9965
+2024-08-20 16:37:27,744-src.data_modelling-INFO-Classification Report for Decision Tree Classifier:
+              precision    recall  f1-score   support
+
+         0.0       1.00      1.00      1.00      2009
+         1.0       0.86      0.71      0.77        17
+
+    accuracy                           1.00      2026
+   macro avg       0.93      0.85      0.89      2026
+weighted avg       1.00      1.00      1.00      2026
+
+2024-08-20 16:37:27,744-src.data_modelling-INFO-Confusion Matrix for Decision Tree Classifier:
+[[2007    2]
+ [   5   12]]
+
+2024-08-20 16:37:27,744-src.data_modelling-INFO-Training Random Forest Classifier...
+2024-08-20 16:37:28,789-src.data_modelling-INFO-Random Forest Classifier completed with accuracy: 0.9951
+2024-08-20 16:37:28,789-src.data_modelling-INFO-Classification Report for Random Forest Classifier:
+              precision    recall  f1-score   support
+
+         0.0       1.00      1.00      1.00      2009
+         1.0       1.00      0.41      0.58        17
+
+    accuracy                           1.00      2026
+   macro avg       1.00      0.71      0.79      2026
+weighted avg       1.00      1.00      0.99      2026
+
+2024-08-20 16:37:28,790-src.data_modelling-INFO-Confusion Matrix for Random Forest Classifier:
+[[2009    0]
+ [  10    7]]
+
+2024-08-20 16:40:38,518-src.data_ingestion-INFO-DataIngestion initialized with file path: ../fraud_detection_system/data/raw/Datasets.csv
+2024-08-20 16:40:38,519-src.data_ingestion-INFO-Loading data from ../fraud_detection_system/data/raw/Datasets.csv
+2024-08-20 16:40:38,665-src.data_ingestion-INFO-Data loaded successfully with 10127 records and 17 columns.
+2024-08-20 16:40:38,667-src.feature_engineering-INFO-FeatureEngineering initialized.
+2024-08-20 16:40:38,667-src.feature_engineering-INFO-Checking for and handling missing values...
+2024-08-20 16:40:38,715-src.feature_engineering-INFO-Handled missing values in numeric columns with median strategy.
+2024-08-20 16:40:38,760-src.feature_engineering-INFO-Handled missing values in categorical columns with most frequent strategy.
+2024-08-20 16:40:38,765-src.feature_engineering-INFO-Creating features...
+2024-08-20 16:40:38,800-src.feature_engineering-INFO-Features created successfully.
+2024-08-20 16:40:38,808-src.feature_engineering-INFO-Encoding categorical features...
+2024-08-20 16:40:38,855-src.feature_engineering-INFO-Categorical features encoded successfully.
+2024-08-20 16:40:38,865-src.data_modelling-INFO-Starting the training and evaluation of models...
+2024-08-20 16:40:38,891-src.data_modelling-INFO-Training Logistic Regression...
+2024-08-20 16:40:39,634-src.data_modelling-INFO-Logistic Regression completed with accuracy: 0.9946
+2024-08-20 16:40:39,634-src.data_modelling-INFO-Classification Report for Logistic Regression:
+              precision    recall  f1-score   support
+
+         0.0       0.99      1.00      1.00      2009
+         1.0       1.00      0.35      0.52        17
+
+    accuracy                           0.99      2026
+   macro avg       1.00      0.68      0.76      2026
+weighted avg       0.99      0.99      0.99      2026
+
+2024-08-20 16:40:39,634-src.data_modelling-INFO-Confusion Matrix for Logistic Regression:
+[[2009    0]
+ [  11    6]]
+
+2024-08-20 16:40:39,635-src.data_modelling-INFO-Training Gradient Boosting...
+2024-08-20 16:40:44,331-src.data_modelling-INFO-Gradient Boosting completed with accuracy: 0.9951
+2024-08-20 16:40:44,336-src.data_modelling-INFO-Classification Report for Gradient Boosting:
+              precision    recall  f1-score   support
+
+         0.0       1.00      1.00      1.00      2009
+         1.0       0.89      0.47      0.62        17
+
+    accuracy                           1.00      2026
+   macro avg       0.94      0.74      0.81      2026
+weighted avg       0.99      1.00      0.99      2026
+
+2024-08-20 16:40:44,338-src.data_modelling-INFO-Confusion Matrix for Gradient Boosting:
+[[2008    1]
+ [   9    8]]
+
+2024-08-20 16:40:44,340-src.data_modelling-INFO-Training k-Neighbors Classifier...
+2024-08-20 16:40:45,016-src.data_modelling-INFO-k-Neighbors Classifier completed with accuracy: 0.9926
+2024-08-20 16:40:45,016-src.data_modelling-INFO-Classification Report for k-Neighbors Classifier:
+              precision    recall  f1-score   support
+
+         0.0       0.99      1.00      1.00      2009
+         1.0       0.67      0.24      0.35        17
+
+    accuracy                           0.99      2026
+   macro avg       0.83      0.62      0.67      2026
+weighted avg       0.99      0.99      0.99      2026
+
+2024-08-20 16:40:45,017-src.data_modelling-INFO-Confusion Matrix for k-Neighbors Classifier:
+[[2007    2]
+ [  13    4]]
+
+2024-08-20 16:40:45,017-src.data_modelling-INFO-Training Decision Tree Classifier...
+2024-08-20 16:40:45,225-src.data_modelling-INFO-Decision Tree Classifier completed with accuracy: 0.9965
+2024-08-20 16:40:45,225-src.data_modelling-INFO-Classification Report for Decision Tree Classifier:
+              precision    recall  f1-score   support
+
+         0.0       1.00      1.00      1.00      2009
+         1.0       0.86      0.71      0.77        17
+
+    accuracy                           1.00      2026
+   macro avg       0.93      0.85      0.89      2026
+weighted avg       1.00      1.00      1.00      2026
+
+2024-08-20 16:40:45,226-src.data_modelling-INFO-Confusion Matrix for Decision Tree Classifier:
+[[2007    2]
+ [   5   12]]
+
+2024-08-20 16:40:45,226-src.data_modelling-INFO-Training Random Forest Classifier...
+2024-08-20 16:40:46,312-src.data_modelling-INFO-Random Forest Classifier completed with accuracy: 0.9951
+2024-08-20 16:40:46,312-src.data_modelling-INFO-Classification Report for Random Forest Classifier:
+              precision    recall  f1-score   support
+
+         0.0       1.00      1.00      1.00      2009
+         1.0       1.00      0.41      0.58        17
+
+    accuracy                           1.00      2026
+   macro avg       1.00      0.71      0.79      2026
+weighted avg       1.00      1.00      0.99      2026
+
+2024-08-20 16:40:46,313-src.data_modelling-INFO-Confusion Matrix for Random Forest Classifier:
+[[2009    0]
+ [  10    7]]
+
+2024-08-20 16:40:46,314-src.data_modelling-INFO-Best model identified: Decision Tree Classifier with accuracy: 0.9965
+2024-08-20 16:40:46,314-src.data_modelling-INFO-Saving the best model to ../fraud_detection_system/models/pipeline_decision_tree_classifier.pkl...
+2024-08-20 16:40:46,330-src.data_modelling-INFO-Best model saved successfully.
